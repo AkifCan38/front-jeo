@@ -1,6 +1,7 @@
 # Front-end Final Project
 Akif Can DUMAN / COM20B
 ##### The project I chose Jeopardy with API (https://jservice.io/) 
+Jeopardy game is a word competition that foreign language teachers practice to teach new words in the target language.
 
 # Screen Shots
 ## App.js code
