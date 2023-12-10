@@ -1,0 +1,56 @@
+@font-face {
+  font-family: Jeopardy;
+  src: url(gyparody_rg.ttf);
+}
+
+html,
+body {
+  font-family: Jeopardy;
+  text-align: center;
+  background-color: rgb(128, 14, 14);
+  color: rgb(255, 255, 255);
+  letter-spacing: 5px;
+}
+
+span,
+button:hover {
+  color: gold;
+}
+
+button {
+  font-family: Jeopardy;
+  margin-left: 10px;
+  background-color: rgb(95, 17, 6);
+  color: white;
+  border: solid white 1px;
+  padding: 20px 30px; 
+  font-size: 20px; 
+}
+
+button:hover {
+  border: solid gold 1px;
+  transition-duration: 500ms;
+  cursor: pointer;
+}
+
+label {
+  display: inline-block;
+  margin-top: 64px;
+  font-size: 50px;
+}
+
+select {
+  font-family: Jeopardy;
+  font-size: 25px;
+  margin-left: 20px;
+  padding: 8px;
+  background-color: rgb(176, 193, 196);
+  color: rgb(75, 8, 60);
+  border: solid white 1px;
+}
+
+select:hover {
+  border: solid gold 1px;
+  transition-duration: 500ms;
+  cursor: pointer;
+}
